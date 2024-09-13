@@ -2,8 +2,6 @@
 
 By Mahan Maalekian
 
-Video overview: <https://youtu.be/bjplCWikHeU>
-
 ## Scope
 
 The database for UEFA Euro 2024 includes all entities necessary to track the progress of the 2024 Euro.
