@@ -25,7 +25,7 @@ This databse will support:
 ## Representation
 
 Entities are captured in SQLite tables with the following schema.
-![Entity relationship diagram](diagram.png)
+![Entity relationship diagram](euro-2024-design/dikagram.png)
 
 
 ### Entities
