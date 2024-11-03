@@ -1,4 +1,3 @@
--- In this SQL file, write (and comment!) the schema of your database, including the CREATE TABLE, CREATE INDEX, CREATE VIEW, etc. statements that compose it
 
 --Represent the countries participating in the Euros 2024
 CREATE TABLE "countries" (
